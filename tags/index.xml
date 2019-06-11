@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Down in the Holler</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Down in the Holler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Colvin Lab</title>
+      <link>/tags/colvin-lab/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/colvin-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decision trees</title>
+      <link>/tags/decision-trees/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/decision-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experimental design</title>
+      <link>/tags/experimental-design/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/experimental-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>structured decision making</title>
+      <link>/tags/structured-decision-making/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/structured-decision-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny</title>
+      <link>/tags/shiny/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data mining</title>
+      <link>/tags/data-mining/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decision support tool</title>
+      <link>/tags/decision-support-tool/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/decision-support-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>knowledge discovery</title>
+      <link>/tags/knowledge-discovery/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/knowledge-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>age classification</title>
+      <link>/tags/age-classification/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/age-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Southern Brook Lamprey</title>
+      <link>/tags/southern-brook-lamprey/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/southern-brook-lamprey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIT tags</title>
+      <link>/tags/pit-tags/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pit-tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>detection probability</title>
+      <link>/tags/detection-probability/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/detection-probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YSFT</title>
+      <link>/tags/ysft/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ysft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>/tags/travel/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GP2GC</title>
+      <link>/tags/gp2gc/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gp2gc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVNP</title>
+      <link>/tags/mvnp/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mvnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesa Verde</title>
+      <link>/tags/mesa-verde/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mesa-verde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANP</title>
+      <link>/tags/anp/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/anp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arches</title>
+      <link>/tags/arches/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/arches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNP</title>
+      <link>/tags/cnp/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canyonlands</title>
+      <link>/tags/canyonlands/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/canyonlands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BCNP</title>
+      <link>/tags/bcnp/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bcnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryce Canyon</title>
+      <link>/tags/bryce-canyon/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bryce-canyon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VCNM</title>
+      <link>/tags/vcnm/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vcnm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vermilion Cliffs</title>
+      <link>/tags/vermilion-cliffs/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vermilion-cliffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZCNP</title>
+      <link>/tags/zcnp/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/zcnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zion</title>
+      <link>/tags/zion/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/zion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCNP</title>
+      <link>/tags/gcnp/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gcnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grand Canyon National Park</title>
+      <link>/tags/grand-canyon-national-park/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/grand-canyon-national-park/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

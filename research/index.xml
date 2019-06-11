@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Down in the Holler</title>
+    <link>/research/</link>
+    <description>Recent content in Researches on Down in the Holler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>/research/research/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/research/</guid>
+      <description>Whether by design or by accident most of the research with which I have been involved relates back to conservation of aquatic resources&amp;mdash;sometimes organisms that depend on water, sometimes the water. My first &amp;ldquo;research&amp;rdquo; was flipping logs, digging in gravel, and diving in streams as a kid to look at bugs, worms, salamanders, and crawfish. Some people are fortunate to grow up in money, I was fortunate enough to grow up in [species] riches.</description>
+    </item>
+    
+  </channel>
+</rss>

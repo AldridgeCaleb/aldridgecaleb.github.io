@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>structured decision making on Down in the Holler</title>
+    <link>/tags/structured-decision-making/</link>
+    <description>Recent content in structured decision making on Down in the Holler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/structured-decision-making/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New blog post on Colvin Lab website</title>
+      <link>/post/2019-03-25-colvin-lab-website-post/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-03-25-colvin-lab-website-post/</guid>
+      <description>The second half to the &amp;lsquo;Design and Decisions&amp;rsquo; posts. I authored a blog post for our lab website. Check it out here: https://mcolvin.github.io/2019-03-22-aldridge-blog-post/</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Discovery &amp; Decision Analysis in Managing US Inland Fisheries</title>
+      <link>/post/2019-03-07-phd-proposal-pres/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-03-07-phd-proposal-pres/</guid>
+      <description>I recently presented on my proposed dissertation research. I&amp;rsquo;m sure this will evolve as time goes by&amp;mdash;this is the launching pad.
+ Knowledge Discovery &amp;amp; Decision Analysis in Managing US Inland Fisheries</description>
+    </item>
+    
+    <item>
+      <title>New blog post on Colvin Lab website</title>
+      <link>/post/2019-01-25-colvin-lab-website-post/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-01-25-colvin-lab-website-post/</guid>
+      <description>I wrote that I authored a blog post for our lab website. It went live today! Check it out here: https://mcolvin.github.io/2019-01-25-aldridge/</description>
+    </item>
+    
+  </channel>
+</rss>
