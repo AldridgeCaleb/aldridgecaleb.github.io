@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colvin Lab on Down in the Holler</title>
-    <link>/tags/colvin-lab/</link>
+    <link>/aldridgecaleb.github.io/tags/colvin-lab/</link>
     <description>Recent content in Colvin Lab on Down in the Holler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/colvin-lab/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/aldridgecaleb.github.io/tags/colvin-lab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New blog post on Colvin Lab website</title>
-      <link>/post/2019-03-25-colvin-lab-website-post/</link>
+      <link>/aldridgecaleb.github.io/post/2019-03-25-colvin-lab-website-post/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019-03-25-colvin-lab-website-post/</guid>
+      <guid>/aldridgecaleb.github.io/post/2019-03-25-colvin-lab-website-post/</guid>
       <description>The second half to the &amp;lsquo;Design and Decisions&amp;rsquo; posts. I authored a blog post for our lab website. Check it out here: https://mcolvin.github.io/2019-03-22-aldridge-blog-post/</description>
     </item>
     
     <item>
       <title>New blog post on Colvin Lab website</title>
-      <link>/post/2019-01-25-colvin-lab-website-post/</link>
+      <link>/aldridgecaleb.github.io/post/2019-01-25-colvin-lab-website-post/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019-01-25-colvin-lab-website-post/</guid>
+      <guid>/aldridgecaleb.github.io/post/2019-01-25-colvin-lab-website-post/</guid>
       <description>I wrote that I authored a blog post for our lab website. It went live today! Check it out here: https://mcolvin.github.io/2019-01-25-aldridge/</description>
     </item>
     
