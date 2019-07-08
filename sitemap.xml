@@ -3,344 +3,344 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/aldridgecaleb.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/research/herpetology/</loc>
+    <loc>/research/herpetology/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/research/ichthyology/</loc>
+    <loc>/research/ichthyology/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/research/</loc>
+    <loc>/research/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/test/</loc>
+    <loc>/post/test/</loc>
     <lastmod>2019-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/research/research/</loc>
+    <loc>/research/research/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/colvin-lab/</loc>
+    <loc>/tags/colvin-lab/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2019-03-25-colvin-lab-website-post/</loc>
+    <loc>/post/2019-03-25-colvin-lab-website-post/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/aldridgecaleb.github.io/tags/decision-trees/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/experimental-design/</loc>
+    <loc>/tags/decision-trees/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/structured-decision-making/</loc>
+    <loc>/tags/experimental-design/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2019-03-07-phd-proposal-pres/</loc>
+    <loc>/tags/structured-decision-making/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2019-03-07-phd-proposal-pres/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/shiny/</loc>
+    <loc>/tags/shiny/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/data-mining/</loc>
+    <loc>/tags/data-mining/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/decision-support-tool/</loc>
+    <loc>/tags/decision-support-tool/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/knowledge-discovery/</loc>
+    <loc>/tags/knowledge-discovery/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/machine-learning/</loc>
+    <loc>/tags/machine-learning/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2019-02-21-msafs-poster/</loc>
+    <loc>/post/2019-02-21-msafs-poster/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/age-classification/</loc>
+    <loc>/tags/age-classification/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2019-02-26-msafs-lamprey/</loc>
+    <loc>/post/2019-02-26-msafs-lamprey/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/southern-brook-lamprey/</loc>
+    <loc>/tags/southern-brook-lamprey/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2019-01-25-colvin-lab-website-post/</loc>
+    <loc>/post/2019-01-25-colvin-lab-website-post/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/pit-tags/</loc>
+    <loc>/tags/pit-tags/</loc>
     <lastmod>2018-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2018-11-14-sfc-lamprey-pres/</loc>
+    <loc>/post/2018-11-14-sfc-lamprey-pres/</loc>
     <lastmod>2018-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/detection-probability/</loc>
+    <loc>/tags/detection-probability/</loc>
     <lastmod>2018-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2018-10-05-afs2018-lamprey/</loc>
+    <loc>/post/2018-10-05-afs2018-lamprey/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/ysft/</loc>
+    <loc>/tags/ysft/</loc>
     <lastmod>2018-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2018-07-04-ysft-i/</loc>
+    <loc>/post/2018-07-04-ysft-i/</loc>
     <lastmod>2018-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/travel/</loc>
+    <loc>/tags/travel/</loc>
     <lastmod>2018-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/gp2gc/</loc>
+    <loc>/tags/gp2gc/</loc>
     <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2018-03-27-gp2gc-v/</loc>
+    <loc>/post/2018-03-27-gp2gc-v/</loc>
     <lastmod>2018-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/mvnp/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/aldridgecaleb.github.io/tags/mesa-verde/</loc>
+    <loc>/tags/mvnp/</loc>
     <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/anp/</loc>
+    <loc>/tags/mesa-verde/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/anp/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/arches/</loc>
+    <loc>/tags/arches/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/cnp/</loc>
+    <loc>/tags/cnp/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/canyonlands/</loc>
+    <loc>/tags/canyonlands/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2018-03-08-gp2gc-iv/</loc>
+    <loc>/post/2018-03-08-gp2gc-iv/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/bcnp/</loc>
+    <loc>/tags/bcnp/</loc>
     <lastmod>2018-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/bryce-canyon/</loc>
+    <loc>/tags/bryce-canyon/</loc>
     <lastmod>2018-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2018-02-21-gp2gc-iii/</loc>
+    <loc>/post/2018-02-21-gp2gc-iii/</loc>
     <lastmod>2018-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/vcnm/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/aldridgecaleb.github.io/tags/vermilion-cliffs/</loc>
+    <loc>/tags/vcnm/</loc>
     <lastmod>2018-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/zcnp/</loc>
+    <loc>/tags/vermilion-cliffs/</loc>
     <lastmod>2018-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/zion/</loc>
+    <loc>/tags/zcnp/</loc>
     <lastmod>2018-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/gcnp/</loc>
+    <loc>/tags/zion/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gcnp/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/tags/grand-canyon-national-park/</loc>
+    <loc>/tags/grand-canyon-national-park/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2018-02-14-gp2gc-ii/</loc>
+    <loc>/post/2018-02-14-gp2gc-ii/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2018-02-07-gp2gc-i/</loc>
+    <loc>/post/2018-02-07-gp2gc-i/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2017-07-21-hog-water-quality-poster/</loc>
+    <loc>/post/2017-07-21-hog-water-quality-poster/</loc>
     <lastmod>2017-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/2017-04-29-masters-thesis-presentation/</loc>
+    <loc>/post/2017-04-29-masters-thesis-presentation/</loc>
     <lastmod>2017-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/categories/lorem/</loc>
+    <loc>/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/migrate-from-jekyll/</loc>
+    <loc>/post/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/go-is-for-lovers/</loc>
+    <loc>/post/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/categories/ipsum/</loc>
+    <loc>/categories/ipsum/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/hugo-is-for-lovers/</loc>
+    <loc>/post/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/aldridgecaleb.github.io/post/creating-a-new-theme/</loc>
+    <loc>/post/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   

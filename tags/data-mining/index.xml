@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data mining on Down in the Holler</title>
-    <link>/aldridgecaleb.github.io/tags/data-mining/</link>
+    <link>/tags/data-mining/</link>
     <description>Recent content in data mining on Down in the Holler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/aldridgecaleb.github.io/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Knowledge Discovery &amp; Decision Analysis in Managing US Inland Fisheries</title>
-      <link>/aldridgecaleb.github.io/post/2019-03-07-phd-proposal-pres/</link>
+      <link>/post/2019-03-07-phd-proposal-pres/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/post/2019-03-07-phd-proposal-pres/</guid>
+      <guid>/post/2019-03-07-phd-proposal-pres/</guid>
       <description>I recently presented on my proposed dissertation research. I&amp;rsquo;m sure this will evolve as time goes by&amp;mdash;this is the launching pad.
  Knowledge Discovery &amp;amp; Decision Analysis in Managing US Inland Fisheries</description>
     </item>

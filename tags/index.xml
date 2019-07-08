@@ -2,282 +2,282 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Down in the Holler</title>
-    <link>/aldridgecaleb.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Down in the Holler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/aldridgecaleb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Colvin Lab</title>
-      <link>/aldridgecaleb.github.io/tags/colvin-lab/</link>
+      <link>/tags/colvin-lab/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/colvin-lab/</guid>
+      <guid>/tags/colvin-lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>decision trees</title>
-      <link>/aldridgecaleb.github.io/tags/decision-trees/</link>
+      <link>/tags/decision-trees/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/decision-trees/</guid>
+      <guid>/tags/decision-trees/</guid>
       <description></description>
     </item>
     
     <item>
       <title>experimental design</title>
-      <link>/aldridgecaleb.github.io/tags/experimental-design/</link>
+      <link>/tags/experimental-design/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/experimental-design/</guid>
+      <guid>/tags/experimental-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>structured decision making</title>
-      <link>/aldridgecaleb.github.io/tags/structured-decision-making/</link>
+      <link>/tags/structured-decision-making/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/structured-decision-making/</guid>
+      <guid>/tags/structured-decision-making/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shiny</title>
-      <link>/aldridgecaleb.github.io/tags/shiny/</link>
+      <link>/tags/shiny/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/shiny/</guid>
+      <guid>/tags/shiny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data mining</title>
-      <link>/aldridgecaleb.github.io/tags/data-mining/</link>
+      <link>/tags/data-mining/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/data-mining/</guid>
+      <guid>/tags/data-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>decision support tool</title>
-      <link>/aldridgecaleb.github.io/tags/decision-support-tool/</link>
+      <link>/tags/decision-support-tool/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/decision-support-tool/</guid>
+      <guid>/tags/decision-support-tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>knowledge discovery</title>
-      <link>/aldridgecaleb.github.io/tags/knowledge-discovery/</link>
+      <link>/tags/knowledge-discovery/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/knowledge-discovery/</guid>
+      <guid>/tags/knowledge-discovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
-      <link>/aldridgecaleb.github.io/tags/machine-learning/</link>
+      <link>/tags/machine-learning/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/machine-learning/</guid>
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>age classification</title>
-      <link>/aldridgecaleb.github.io/tags/age-classification/</link>
+      <link>/tags/age-classification/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/age-classification/</guid>
+      <guid>/tags/age-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Southern Brook Lamprey</title>
-      <link>/aldridgecaleb.github.io/tags/southern-brook-lamprey/</link>
+      <link>/tags/southern-brook-lamprey/</link>
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/southern-brook-lamprey/</guid>
+      <guid>/tags/southern-brook-lamprey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PIT tags</title>
-      <link>/aldridgecaleb.github.io/tags/pit-tags/</link>
+      <link>/tags/pit-tags/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/pit-tags/</guid>
+      <guid>/tags/pit-tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>detection probability</title>
-      <link>/aldridgecaleb.github.io/tags/detection-probability/</link>
+      <link>/tags/detection-probability/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/detection-probability/</guid>
+      <guid>/tags/detection-probability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YSFT</title>
-      <link>/aldridgecaleb.github.io/tags/ysft/</link>
+      <link>/tags/ysft/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/ysft/</guid>
+      <guid>/tags/ysft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>/aldridgecaleb.github.io/tags/travel/</link>
+      <link>/tags/travel/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/travel/</guid>
+      <guid>/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GP2GC</title>
-      <link>/aldridgecaleb.github.io/tags/gp2gc/</link>
+      <link>/tags/gp2gc/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/gp2gc/</guid>
+      <guid>/tags/gp2gc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MVNP</title>
-      <link>/aldridgecaleb.github.io/tags/mvnp/</link>
+      <link>/tags/mvnp/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/mvnp/</guid>
+      <guid>/tags/mvnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mesa Verde</title>
-      <link>/aldridgecaleb.github.io/tags/mesa-verde/</link>
+      <link>/tags/mesa-verde/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/mesa-verde/</guid>
+      <guid>/tags/mesa-verde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ANP</title>
-      <link>/aldridgecaleb.github.io/tags/anp/</link>
+      <link>/tags/anp/</link>
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/anp/</guid>
+      <guid>/tags/anp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arches</title>
-      <link>/aldridgecaleb.github.io/tags/arches/</link>
+      <link>/tags/arches/</link>
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/arches/</guid>
+      <guid>/tags/arches/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CNP</title>
-      <link>/aldridgecaleb.github.io/tags/cnp/</link>
+      <link>/tags/cnp/</link>
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/cnp/</guid>
+      <guid>/tags/cnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Canyonlands</title>
-      <link>/aldridgecaleb.github.io/tags/canyonlands/</link>
+      <link>/tags/canyonlands/</link>
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/canyonlands/</guid>
+      <guid>/tags/canyonlands/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BCNP</title>
-      <link>/aldridgecaleb.github.io/tags/bcnp/</link>
+      <link>/tags/bcnp/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/bcnp/</guid>
+      <guid>/tags/bcnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bryce Canyon</title>
-      <link>/aldridgecaleb.github.io/tags/bryce-canyon/</link>
+      <link>/tags/bryce-canyon/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/bryce-canyon/</guid>
+      <guid>/tags/bryce-canyon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VCNM</title>
-      <link>/aldridgecaleb.github.io/tags/vcnm/</link>
+      <link>/tags/vcnm/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/vcnm/</guid>
+      <guid>/tags/vcnm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vermilion Cliffs</title>
-      <link>/aldridgecaleb.github.io/tags/vermilion-cliffs/</link>
+      <link>/tags/vermilion-cliffs/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/vermilion-cliffs/</guid>
+      <guid>/tags/vermilion-cliffs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZCNP</title>
-      <link>/aldridgecaleb.github.io/tags/zcnp/</link>
+      <link>/tags/zcnp/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/zcnp/</guid>
+      <guid>/tags/zcnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zion</title>
-      <link>/aldridgecaleb.github.io/tags/zion/</link>
+      <link>/tags/zion/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/zion/</guid>
+      <guid>/tags/zion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GCNP</title>
-      <link>/aldridgecaleb.github.io/tags/gcnp/</link>
+      <link>/tags/gcnp/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/gcnp/</guid>
+      <guid>/tags/gcnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grand Canyon National Park</title>
-      <link>/aldridgecaleb.github.io/tags/grand-canyon-national-park/</link>
+      <link>/tags/grand-canyon-national-park/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/tags/grand-canyon-national-park/</guid>
+      <guid>/tags/grand-canyon-national-park/</guid>
       <description></description>
     </item>
     

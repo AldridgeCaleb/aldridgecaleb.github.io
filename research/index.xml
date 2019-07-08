@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researches on Down in the Holler</title>
-    <link>/aldridgecaleb.github.io/research/</link>
+    <link>/research/</link>
     <description>Recent content in Researches on Down in the Holler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/aldridgecaleb.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Herpetology</title>
-      <link>/aldridgecaleb.github.io/research/herpetology/</link>
+      <link>/research/herpetology/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/research/herpetology/</guid>
+      <guid>/research/herpetology/</guid>
       <description>Herpetology, herpetón means &amp;ldquo;creeping animal&amp;rdquo; and ology, of course, mean &amp;ldquo;study,&amp;rdquo; is focused on amphibians (e.g., frogs, toads, and salamanders) and reptiles (e.g., snakes, lizards, and turtles). I have been amazed by herps my entire life. I would have two to three week-long &amp;ldquo;pets&amp;rdquo; every summer. Heck, one of the first animals my family ever had was a (corn snake Pantherophis guttatus).</description>
     </item>
     
     <item>
       <title>Ichthyology</title>
-      <link>/aldridgecaleb.github.io/research/ichthyology/</link>
+      <link>/research/ichthyology/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/research/ichthyology/</guid>
+      <guid>/research/ichthyology/</guid>
       <description>Ichthyology is the study of fish. (The literal Greek ikhthys means &amp;ldquo;fish&amp;rdquo; and logos means &amp;ldquo;study&amp;rdquo;). I cannot claim I am anything beyond novice in this area. Really, most of my experience is second-hand (assisting other in the field), working on a particular species (southern brook lamprey, Ichthyomyzon gagei,), or what is relevant to my dissertation research.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/aldridgecaleb.github.io/research/research/</link>
+      <link>/research/research/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/aldridgecaleb.github.io/research/research/</guid>
+      <guid>/research/research/</guid>
       <description>Whether by design or by accident most of the research with which I have been involved relates back to conservation of aquatic resources&amp;mdash;sometimes organisms that depend on water, sometimes the water. My first &amp;ldquo;research&amp;rdquo; was flipping logs, digging in gravel, and diving in streams as a kid to look at bugs, worms, salamanders, and crawfish. Some people are fortunate to grow up in money, I was fortunate enough to grow up in [species] riches.</description>
     </item>
     
