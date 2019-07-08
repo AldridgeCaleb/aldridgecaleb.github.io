@@ -25,17 +25,6 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/test/</loc>
-    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/research/research/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url>
@@ -54,6 +43,12 @@
   <url>
     <loc>/post/2019-03-25-colvin-lab-website-post/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
