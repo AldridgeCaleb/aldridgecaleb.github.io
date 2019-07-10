@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Down in the Holler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>Colvin Lab</title>
       <link>/tags/colvin-lab/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/colvin-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ichthyomyzon gagei</title>
+      <link>/tags/ichthyomyzon-gagei/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ichthyomyzon-gagei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIT tags</title>
+      <link>/tags/pit-tags/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pit-tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Southern Brook Lamprey</title>
+      <link>/tags/southern-brook-lamprey/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/southern-brook-lamprey/</guid>
       <description></description>
     </item>
     
@@ -98,24 +125,6 @@
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/age-classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Southern Brook Lamprey</title>
-      <link>/tags/southern-brook-lamprey/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/southern-brook-lamprey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PIT tags</title>
-      <link>/tags/pit-tags/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pit-tags/</guid>
       <description></description>
     </item>
     
