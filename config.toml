@@ -1,0 +1,138 @@
+baseurl = "https://aldridgecaleb.github.io/"
+title = "Caleb A. Aldridge"
+author = "Down in the Hollar"
+copyright = "Copyright © 2018–2020, C.A. Aldridge; all rights reserved."
+canonifyurls = true
+paginate = 3
+theme = "silhouette-hugo"
+
+pygmentsUseClasses=true
+
+disqusShortname = "calebashtonaldridge"
+googleAnalytics = "UA-130555245-1"
+
+
+[params]
+author = "Down in the Hollar"
+introDescription = "I'm Caleb Aldridge, PhD student in Wildlife, Fisheries & Aquaculture at Mississippi State University, and this is my website."
+contentSharing = ""
+
+[social]
+github = "aldridgecaleb"
+researchgate = "Caleb_Aldridge"
+instagram = "aldridgecaleb"
+twitter = "AldridgeCalebA"
+
+
+
+
+	[params.about]
+		hide  = false
+		title = "Caleb A. Aldridge, Nature Conservationist"
+		content = """I am a research assistant and PhD student studying decision making in fisheries 
+		resources under the guidance of Drs. [Michael Colvin](https://mcolvin.github.io/) and 
+		[Leandro (Steve) Miranda](https://www.coopunits.org/Mississippi/People/Leandro_Miranda/index.html). 
+		We're housed in the [Wildlife, Fisheries and Aquaculture Department](http://www.cfr.msstate.edu/wildlife/) 
+		within the [College of Forest Resources](http://www.cfr.msstate.edu/) 
+		at [Mississippi State University](https://www.msstate.edu/). 
+		I'm supported by the [Mississippi Cooperative Fish and Wildlife Research 
+		Unit](https://www.coopunits.org/Mississippi/index.html) and the [Mississippi Department 
+		of Wildlife, Fisheries, and Parks](http://www.mdwfp.com/). 
+		</p>My studies and research focus on sampling and monitoring protocols of state 
+		fisheries agencies across the U.S. and the decision-making process used to take action using 
+		metrics from such protocols. Part of my research is building a web application to be 
+		used by MDWFP fisheries biologists in constructing lake management plans based on monitoring 
+		data and will integrate decision analysis when considering alternative actions.
+		To learn more about my research, or past projects, visit my [research page](/research/research) 
+		or view my [curriculum vitae](/resume).<p>"""
+
+	[params.research]
+		hide  = false
+		title = "[Research](/research/research)"
+
+		# The images and thumbnails are stored under static/images
+		# Create and change subfolders as you like
+		[[params.research.gallery]]
+			image = "fulls/redspot-darter-01.jpg"
+			thumb = "thumbs/redspot-darter-01.jpg"
+			title = "[Ichthyology](/research/ichthyology)"
+			description = "Fish and fisheries"
+
+		[[params.research.gallery]]
+			image = "fulls/green-treefrog-01.jpg"
+			thumb = "thumbs/green-treefrog-01.jpg"
+			title = "[Herpetology](/research/herpetology)"
+			description = "Amphibian conservation"
+
+		[[params.research.gallery]]
+			image = "fulls/new-river-mill-dam.jpg"
+			thumb = "thumbs/new-river-mill-dam.jpg"
+			title = "[Hydrology](/research/hydrology)"
+			description = "Agriculture water quality"
+
+		[[params.research.gallery]]
+			image = "fulls/sunflower-01.jpg"
+			thumb = "thumbs/sunflower-01.jpg"
+			title = "[Decision Science](/research/decision-science)"
+			description = "Shiny decision support tool"
+
+	[params.recentposts]
+		hide  = false
+		title = "Recent Blog Posts"
+
+	[params.contact]
+		hide  = false
+		title = "Get In Touch"
+		content = "Fell free to contact me via email or telephone."
+
+		# This can be exact coordinates or a searchable address in google maps
+		gmaps_address = "33.451058,-88.796395"
+		address = [
+			"107 Acorn Building",
+			"Mississippi State, MS 39762",
+			"United States"
+		]
+		phone = "+1 205-495-6483"
+
+		# Since this template is static, the contact form uses www.formspree.io as a
+		# proxy. The form makes a POST request to their servers to send the actual
+		# email. Visitors can send up to a 1000 emails each month for free.
+	    #
+	    # What you need to do for the setup?
+	    #
+	    # - set your email address under 'email' below
+	    # - upload the generated site to your server
+	    # - send a dummy email yourself to confirm your account
+	    # - click the confirm link in the email from www.formspree.io
+	    # - you're done. Happy mailing!
+		email = "caa134@msstate.edu"
+
+		[params.contact.form]
+			# Set custom strings for the form if your native
+			# language isn't English
+			name = "Name"
+			email = "Email"
+			message = "Message"
+			submit = "Send message"
+
+
+# Menu links that appear on the left sidebar
+[[menu.main]]
+	name = "Home"
+	url  = "/"
+	weight = 1
+
+[[menu.main]]
+	name = "Research"
+	url  = "research/research/"
+	weight = 2
+
+# [[menu.main]]
+# 	name = "Teaching"
+# 	url  = "teaching/"
+# 	weight = 3
+	
+[[menu.main]]
+	name = "Blog"
+	url  = "post/"
+	weight = 0
