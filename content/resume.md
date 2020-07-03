@@ -6,7 +6,7 @@ menu: ""
 title: "Curriculum Vitae"
 ---
 
-> Links to full texts are embedded in manuscript titles. Conditions of Use: PDF versions of articles are available only for non-profit educational and research purposes, under the provision of fair use of a copywrighted work. Copies must include the original source and name of the copyright holder. Full CV embedded at bottom of page.  
+> Links to full texts in manuscript titles. Conditions of Use: PDF versions of articles are available only for non-profit educational and research purposes, under the provision of fair use of a copywrighted work. Copies must include the original source and name of the copyright holder. Full CV embedded at bottom of page.  
 
 ## Education
 
