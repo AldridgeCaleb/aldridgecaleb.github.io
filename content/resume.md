@@ -46,6 +46,14 @@ __Wildlife Biologist Intern | ADCNR--WFF--FHWMA |__ _2013_
 
 ## Research and Extension Articles  
 
+_2020_
+
+_[Computing Skills Beyond R for Fisheries Students](https://doi.org/10.1002/fsh.10392)._ Aldridge. Fisheries 45(3):116–120
+
+*[Geographic Distribution: Hemidactylus turcicus (Mediterranean Gecko). USA: MISSISSIPPI: LOWNDES CO.](https://www.dropbox.com/s/pchyjdvfqj6gm9p/HR_Mar_2020_Final_150dpi_Geographic%20Distribution.pdf?dl=1)* Rogers, Banks, & Aldridge. Herpetological Review 51(1):77.
+
+_[A preliminary investigation of wild pig (Sus scrofa) impacts on water quality.](https://doi.org/10.1002/jeq2.20036)_ Brooks, Smith, Aldridge, Chaney, Omer, Dentinger, Street, & Baker. Journal of Environmental Quality 49(1):27–37.
+
 _2019_
 
 _[Investigation of short-term effects of winter cover crops on compaction and total soil carbon in a long-term no-till agricultural system](http://www.jswconline.org/content/74/1/77.short)._ Aldridge, Baker, & Omer. Journal of Soil and Water Conservation 74(1):77-84. <a href="https://plu.mx/plum/a/?doi=10.2489/jswc.74.1.77" data-popup="right" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true"></a>  
