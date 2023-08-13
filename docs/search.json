@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Strategic Conservation",
     "section": "",
-    "text": "Helping natural resource managers establish good decision rules while improving ecological understanding.\n\n\n\n\nCaleb A. Aldridge presenting on associations between environmental variables and Eastern Black Kingsnake (Lampropeltis nigra) and the implications for Serpentes conservation under future climate projections."
+    "text": "Helping natural resource managers establish good decision rules while improving ecological understanding.\n\n\n\n\nCaleb A. Aldridge presents on environmental associations with Eastern Black Kingsnake (Lampropeltis nigra) with implications for Serpentes conservation under future climate projections."
   },
   {
     "objectID": "projects.html",
@@ -12,5 +12,19 @@
     "title": "Projects",
     "section": "",
     "text": "Projects\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to strategic conservation, Caleb Aldridge’s personal website documenting the conservation science and practice projects to which he has contributed. Caleb currently works for the U.S. Fish and Wildlife Service at the Lower Mississippi River Fish and Wildlife Conservation Office in Tupelo, MS. His primary duty is to coordinate invasive carp control, monitoring, and research projects among state, federal, academic, and industry partners in the Lower Mississippi River and Arkansas–Red–White sub-basins (2021 – current). Caleb facilitates participatory decision-making (Kaner 2014) discussions, resulting in a clear understanding of the conservation challenge, the objectives to be achieved, actions or strategies available, and development of graphical models that represent current ecological understanding (Keeney 1992). He also conducts a broad range of quantitative analyses useful for decision-making including population modeling (Thompson, Olden, and Converse 2021), systems analysis (Peterson and Evans 2003), trade-off analysis (Bain 1987), and optimization (Marescot et al. 2013).\nPrior to joining the Service, Caleb worked as a researcher at Mississippi State University (2016 – 2021) where he also completed his Ph.D. (2022). Caleb was a Research Associate in Dr. Beth Baker’s R.E.A.C.H. lab where he managed a projected aimed at reducing nutrient and sediment loss from a long-term no-till rotational system using cover crop applications, thereby reducing the risk of downstream impacts due to sedimentation and excess nutrients.\n\n\n\n\nReferences\n\nBain, Mark B. 1987. “Structured Decision Making in Fisheries Management: Trout Fishing Regulations on the Au Sable River, Michigan.” North American Journal of Fisheries Management 7: 475–81.\n\n\nKaner, Sam. 2014. Facilitator’s Guide to Participatory Decision-Making. John Wiley & Sons.\n\n\nKeeney, Ralph L. 1992. Value-focused thinking: a path to creative decisionmaking. Cambridge, Mass.: Harvard Univ. Press.\n\n\nMarescot, Lucile, Guillaume Chapron, Iadine Chadès, Paul L. Fackler, Christophe Duchamp, Eric Marboutin, and Olivier Gimenez. 2013. “Complex Decisions Made Simple: A Primer on Stochastic Dynamic Programming.” Methods in Ecology and Evolution 4 (9): 872–84. https://doi.org/10.1111/2041-210X.12082.\n\n\nPeterson, James T, and James W Evans. 2003. “Quantitative Decision Analysis for Sport Fisheries Management.” Fisheries 28 (1): 10–21. https://doi.org/10.1577/1548-8446(2003)28[10:QDAFSF]2.0.CO;2.\n\n\nThompson, Brielle K., Julian D. Olden, and Sarah J. Converse. 2021. “Mechanistic Invasive Species Management Models and Their Application in Conservation.” Conservation Science and Practice 3 (11). https://doi.org/10.1111/csp2.533."
+  },
+  {
+    "objectID": "projects.html#understanding-invasion-states-and-dynamics",
+    "href": "projects.html#understanding-invasion-states-and-dynamics",
+    "title": "Projects",
+    "section": "Understanding invasion states and dynamics",
+    "text": "Understanding invasion states and dynamics"
   }
 ]

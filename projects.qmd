@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-Projects
+## Controlling harmful invasions
 
-```{r}
-1 + 1
-```
+## Understanding invasion states and dynamics 
