@@ -1,0 +1,8 @@
+---
+title: "About"
+bibliography: references.bib
+---
+
+Welcome to strategic conservation, Caleb Aldridge's personal website documenting the conservation science and practice projects to which he has contributed. Caleb currently works for the U.S. Fish and Wildlife Service at the Lower Mississippi River Fish and Wildlife Conservation Office in Tupelo, MS. His primary duty is to coordinate invasive carp control, monitoring, and research projects among state, federal, academic, and industry partners in the Lower Mississippi River and Arkansas--Red--White sub-basins (2021 -- current). Caleb facilitates participatory decision-making [@kaner2014] discussions, resulting in a clear understanding of the conservation challenge, the objectives to be achieved, actions or strategies available, and development of graphical models that represent current ecological understanding [@keeney1992a]. He also conducts a broad range of quantitative analyses useful for decision-making including population modeling [@thompson2021], systems analysis [@Peterson2003], trade-off analysis [@bain1987], and optimization [@marescot2013].
+
+Prior to joining the Service, Caleb worked as a researcher at Mississippi State University (2016 -- 2021) where he also completed his Ph.D. (2022). Caleb was a Research Associate in Dr. Beth Baker's [R.E.A.C.H. lab](https://www.reach.msstate.edu/) where he managed a projected aimed at reducing nutrient and sediment loss from a long-term no-till rotational system using cover crop applications, thereby reducing the risk of downstream impacts due to sedimentation and excess nutrients.
