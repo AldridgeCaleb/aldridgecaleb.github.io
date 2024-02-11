@@ -4,4 +4,6 @@ title: "Strategic Conservation"
 
 > Helping natural resource managers establish good decision rules while improving ecological understanding.
 
-![Caleb presenting on environmental associations with Eastern Black Kingsnake (*Lampropeltis nigra*) and the implications for Serpentes conservation under future climate projections.](docs/images/20230420-caa-ms-herp-conf.JPG)
+Welcome to Strategic Conservation, the digital portfolio of my, Caleb A. Aldridge, contributions to conservation science and practice. Use the tabs at the top to learn more about me and the work I have been fortunate to participate in. I'm developing a "repository" of helpful analysis and modeling tips and tricks, so be sure to check for updates! 
+
+![Me presenting on environmental associations with Eastern Black Kingsnake (*Lampropeltis nigra*) and the implications for Serpentes conservation under future climate projections.](docs/images/20230420-caa-ms-herp-conf.JPG)
