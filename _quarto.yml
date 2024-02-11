@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Strategic Conservation"
+  title: "Caleb A. Aldridge"
   navbar:
     left:
       - href: index.qmd
@@ -22,7 +22,7 @@ website:
           #   url:  https://bugs.com
 format:
   html:
-    theme: lux
+    theme: flatly
     css: styles.css
     toc: true
 
