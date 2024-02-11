@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "About Me"
 bibliography: references.bib
 ---
 
 This page documents my current role, professional journey, areas of expertise, and research interests. 
+
+![](docs/images/avatar/Caleb-Randi-Maine.jpg)
 
 ## Current Role
 I am currently employed as a Biologist and Coordinator by the U.S. Fish and Wildlife Service in the Lower Mississippi River Fish and Wildlife Conservation Office in Tupelo, Mississippi. Since I first joined USFWS 2021, my primary responsibility has been leading initiatives to prevent, control, and manage invasive carp populations in the Lower Mississippi River and the Arkansas--Red--White Rivers Sub-basins (include 9 states). Through these efforts, I unite state, federal, academic, and industry partners, steering collaborative approaches to address this conservation challenge.
