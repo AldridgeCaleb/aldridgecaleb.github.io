@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - projects.qmd
+      - cv.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/AldridgeCalebA
