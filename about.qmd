@@ -20,7 +20,7 @@ In 2018, I again went back to school for more education, though this time it was
 ## Areas of Expertise
 My approach to conservation is deeply rooted in participatory decision-making, ensuring all stakeholders have a voice in understanding and tackling conservation challenges. I adeptly facilitate discussions to properly frame problems, clarify objectives, identify available actions and strategies, and develop models to encapsulate current ecological understanding and societal values (i.e., Structured Decision Making). Furthermore, my analytical skills---including population modeling, systems analysis, trade-off analysis, and optimization---help me support managers decision-making processes and provide a solid foundation for effective conservation strategies.
 
-## Resaerch Interests
+## Research Interests
 My research interests are broad and driven by stakeholders. In short, I like to problem solve. In alignment with decision-analytic principles, there are four "categories" for my research interests.
 - Measuring System States: Optimization of sampling protocols to improve effectiveness and efficiency of measuring system status and improving hypothesis-driven field studies.
 - Relating Human Values and System States: Incorporation of social science and human dimensions into natural resource decision-making, including development and evaluation of novel valuation techniques and organizational studies to improve organizational decision quality.
